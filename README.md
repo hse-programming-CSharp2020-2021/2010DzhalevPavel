@@ -4,7 +4,7 @@ This is the school repository I will be using for my programming classes at High
 
 Most of the code is written in C#, as this is the primary language used in the class.
 
-#Structure
+# Structure
 
 Tasks are structured in modules and their corresponding seminars during the year. **Homework** can usually be found under the "HW" folder in each of the seminars.
 
