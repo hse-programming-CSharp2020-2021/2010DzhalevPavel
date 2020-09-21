@@ -3,6 +3,7 @@
 
 # Custom
 .idea
+AssemblyInfo.cs
 
 # User-specific stuff
 .idea/**/workspace.xml
