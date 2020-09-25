@@ -1,0 +1,6 @@
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem4/CW/Task01/bin/Debug/Task01.exe
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem4/CW/Task01/bin/Debug/Task01.pdb
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem4/CW/Task01/obj/Debug/Task01.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem4/CW/Task01/obj/Debug/Task01.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem4/CW/Task01/obj/Debug/Task01.exe
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem4/CW/Task01/obj/Debug/Task01.pdb
