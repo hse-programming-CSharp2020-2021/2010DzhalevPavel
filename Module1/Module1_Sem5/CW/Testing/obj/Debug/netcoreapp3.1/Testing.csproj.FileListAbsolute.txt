@@ -1,0 +1,13 @@
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem5/CW/Testing/bin/Debug/netcoreapp3.1/Testing
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem5/CW/Testing/bin/Debug/netcoreapp3.1/Testing.deps.json
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem5/CW/Testing/bin/Debug/netcoreapp3.1/Testing.runtimeconfig.json
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem5/CW/Testing/bin/Debug/netcoreapp3.1/Testing.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem5/CW/Testing/bin/Debug/netcoreapp3.1/Testing.dll
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem5/CW/Testing/bin/Debug/netcoreapp3.1/Testing.pdb
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem5/CW/Testing/obj/Debug/netcoreapp3.1/Testing.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem5/CW/Testing/obj/Debug/netcoreapp3.1/Testing.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem5/CW/Testing/obj/Debug/netcoreapp3.1/Testing.AssemblyInfo.cs
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem5/CW/Testing/obj/Debug/netcoreapp3.1/Testing.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem5/CW/Testing/obj/Debug/netcoreapp3.1/Testing.dll
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem5/CW/Testing/obj/Debug/netcoreapp3.1/Testing.pdb
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem5/CW/Testing/obj/Debug/netcoreapp3.1/Testing.genruntimeconfig.cache
