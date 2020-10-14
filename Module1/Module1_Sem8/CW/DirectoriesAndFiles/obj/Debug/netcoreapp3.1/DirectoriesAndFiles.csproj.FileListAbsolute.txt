@@ -1,0 +1,13 @@
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/CW/DirectoriesAndFiles/bin/Debug/netcoreapp3.1/DirectoriesAndFiles
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/CW/DirectoriesAndFiles/bin/Debug/netcoreapp3.1/DirectoriesAndFiles.deps.json
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/CW/DirectoriesAndFiles/bin/Debug/netcoreapp3.1/DirectoriesAndFiles.runtimeconfig.json
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/CW/DirectoriesAndFiles/bin/Debug/netcoreapp3.1/DirectoriesAndFiles.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/CW/DirectoriesAndFiles/bin/Debug/netcoreapp3.1/DirectoriesAndFiles.dll
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/CW/DirectoriesAndFiles/bin/Debug/netcoreapp3.1/DirectoriesAndFiles.pdb
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/CW/DirectoriesAndFiles/obj/Debug/netcoreapp3.1/DirectoriesAndFiles.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/CW/DirectoriesAndFiles/obj/Debug/netcoreapp3.1/DirectoriesAndFiles.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/CW/DirectoriesAndFiles/obj/Debug/netcoreapp3.1/DirectoriesAndFiles.AssemblyInfo.cs
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/CW/DirectoriesAndFiles/obj/Debug/netcoreapp3.1/DirectoriesAndFiles.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/CW/DirectoriesAndFiles/obj/Debug/netcoreapp3.1/DirectoriesAndFiles.dll
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/CW/DirectoriesAndFiles/obj/Debug/netcoreapp3.1/DirectoriesAndFiles.pdb
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/CW/DirectoriesAndFiles/obj/Debug/netcoreapp3.1/DirectoriesAndFiles.genruntimeconfig.cache
