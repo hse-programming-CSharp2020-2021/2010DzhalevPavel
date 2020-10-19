@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace Task03
 {
@@ -6,7 +7,16 @@ namespace Task03
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Enter a number  between 1 and 10:");
+            int number = int.Parse(Console.ReadLine());
+            
+            int[] arr = new int[number];
+            for (int i = 0; i < number; i++)
+            {
+                arr[i] = i;
+            }
+            
+            Console.Beep();
         }
     }
 }

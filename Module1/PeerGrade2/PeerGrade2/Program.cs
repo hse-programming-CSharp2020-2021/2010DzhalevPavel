@@ -12,6 +12,10 @@ namespace PeerGrade2
         /// <param name="args"></param>
         public static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine(@"Type ""help"" to view all available commands");
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                
             //I am doing a final check for any exceptions in order to make sure that the program will run as smooth as possible.
             try
             {
