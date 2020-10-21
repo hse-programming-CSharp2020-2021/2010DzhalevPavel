@@ -1,0 +1,13 @@
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/HW/Slide33Task01/bin/Debug/netcoreapp3.1/Slide33Task01
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/HW/Slide33Task01/bin/Debug/netcoreapp3.1/Slide33Task01.deps.json
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/HW/Slide33Task01/bin/Debug/netcoreapp3.1/Slide33Task01.runtimeconfig.json
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/HW/Slide33Task01/bin/Debug/netcoreapp3.1/Slide33Task01.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/HW/Slide33Task01/bin/Debug/netcoreapp3.1/Slide33Task01.dll
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/HW/Slide33Task01/bin/Debug/netcoreapp3.1/Slide33Task01.pdb
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/HW/Slide33Task01/obj/Debug/netcoreapp3.1/Slide33Task01.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/HW/Slide33Task01/obj/Debug/netcoreapp3.1/Slide33Task01.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/HW/Slide33Task01/obj/Debug/netcoreapp3.1/Slide33Task01.AssemblyInfo.cs
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/HW/Slide33Task01/obj/Debug/netcoreapp3.1/Slide33Task01.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/HW/Slide33Task01/obj/Debug/netcoreapp3.1/Slide33Task01.dll
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/HW/Slide33Task01/obj/Debug/netcoreapp3.1/Slide33Task01.pdb
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module1/Module1_Sem8/HW/Slide33Task01/obj/Debug/netcoreapp3.1/Slide33Task01.genruntimeconfig.cache
