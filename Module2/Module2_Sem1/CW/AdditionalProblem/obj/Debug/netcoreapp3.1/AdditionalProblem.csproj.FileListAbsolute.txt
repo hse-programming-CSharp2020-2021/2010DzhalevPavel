@@ -1,0 +1,13 @@
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module2/Module2_Sem1/CW/AdditionalProblem/bin/Debug/netcoreapp3.1/AdditionalProblem
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module2/Module2_Sem1/CW/AdditionalProblem/bin/Debug/netcoreapp3.1/AdditionalProblem.deps.json
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module2/Module2_Sem1/CW/AdditionalProblem/bin/Debug/netcoreapp3.1/AdditionalProblem.runtimeconfig.json
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module2/Module2_Sem1/CW/AdditionalProblem/bin/Debug/netcoreapp3.1/AdditionalProblem.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module2/Module2_Sem1/CW/AdditionalProblem/bin/Debug/netcoreapp3.1/AdditionalProblem.dll
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module2/Module2_Sem1/CW/AdditionalProblem/bin/Debug/netcoreapp3.1/AdditionalProblem.pdb
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module2/Module2_Sem1/CW/AdditionalProblem/obj/Debug/netcoreapp3.1/AdditionalProblem.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module2/Module2_Sem1/CW/AdditionalProblem/obj/Debug/netcoreapp3.1/AdditionalProblem.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module2/Module2_Sem1/CW/AdditionalProblem/obj/Debug/netcoreapp3.1/AdditionalProblem.AssemblyInfo.cs
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module2/Module2_Sem1/CW/AdditionalProblem/obj/Debug/netcoreapp3.1/AdditionalProblem.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module2/Module2_Sem1/CW/AdditionalProblem/obj/Debug/netcoreapp3.1/AdditionalProblem.dll
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module2/Module2_Sem1/CW/AdditionalProblem/obj/Debug/netcoreapp3.1/AdditionalProblem.pdb
+/home/padjal/Documents/HSE/Programming/2010DzhalevPavel/Module2/Module2_Sem1/CW/AdditionalProblem/obj/Debug/netcoreapp3.1/AdditionalProblem.genruntimeconfig.cache
