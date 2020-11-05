@@ -1,0 +1,13 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/MathFunction/bin/Debug/netcoreapp3.1/MathFunction
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/MathFunction/bin/Debug/netcoreapp3.1/MathFunction.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/MathFunction/bin/Debug/netcoreapp3.1/MathFunction.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/MathFunction/bin/Debug/netcoreapp3.1/MathFunction.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/MathFunction/bin/Debug/netcoreapp3.1/MathFunction.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/MathFunction/bin/Debug/netcoreapp3.1/MathFunction.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/MathFunction/obj/Debug/netcoreapp3.1/MathFunction.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/MathFunction/obj/Debug/netcoreapp3.1/MathFunction.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/MathFunction/obj/Debug/netcoreapp3.1/MathFunction.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/MathFunction/obj/Debug/netcoreapp3.1/MathFunction.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/MathFunction/obj/Debug/netcoreapp3.1/MathFunction.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/MathFunction/obj/Debug/netcoreapp3.1/MathFunction.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/MathFunction/obj/Debug/netcoreapp3.1/MathFunction.genruntimeconfig.cache

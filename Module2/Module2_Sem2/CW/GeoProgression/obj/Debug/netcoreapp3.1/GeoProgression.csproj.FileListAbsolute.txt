@@ -1,0 +1,13 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/GeoProgression/bin/Debug/netcoreapp3.1/GeoProgression
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/GeoProgression/bin/Debug/netcoreapp3.1/GeoProgression.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/GeoProgression/bin/Debug/netcoreapp3.1/GeoProgression.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/GeoProgression/bin/Debug/netcoreapp3.1/GeoProgression.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/GeoProgression/bin/Debug/netcoreapp3.1/GeoProgression.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/GeoProgression/bin/Debug/netcoreapp3.1/GeoProgression.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/GeoProgression/obj/Debug/netcoreapp3.1/GeoProgression.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/GeoProgression/obj/Debug/netcoreapp3.1/GeoProgression.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/GeoProgression/obj/Debug/netcoreapp3.1/GeoProgression.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/GeoProgression/obj/Debug/netcoreapp3.1/GeoProgression.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/GeoProgression/obj/Debug/netcoreapp3.1/GeoProgression.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/GeoProgression/obj/Debug/netcoreapp3.1/GeoProgression.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/GeoProgression/obj/Debug/netcoreapp3.1/GeoProgression.genruntimeconfig.cache

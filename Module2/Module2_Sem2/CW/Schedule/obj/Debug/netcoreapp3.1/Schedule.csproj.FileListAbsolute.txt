@@ -1,0 +1,13 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/Schedule/bin/Debug/netcoreapp3.1/Schedule
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/Schedule/bin/Debug/netcoreapp3.1/Schedule.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/Schedule/bin/Debug/netcoreapp3.1/Schedule.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/Schedule/bin/Debug/netcoreapp3.1/Schedule.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/Schedule/bin/Debug/netcoreapp3.1/Schedule.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/Schedule/bin/Debug/netcoreapp3.1/Schedule.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/Schedule/obj/Debug/netcoreapp3.1/Schedule.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/Schedule/obj/Debug/netcoreapp3.1/Schedule.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/Schedule/obj/Debug/netcoreapp3.1/Schedule.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/Schedule/obj/Debug/netcoreapp3.1/Schedule.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/Schedule/obj/Debug/netcoreapp3.1/Schedule.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/Schedule/obj/Debug/netcoreapp3.1/Schedule.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/Schedule/obj/Debug/netcoreapp3.1/Schedule.genruntimeconfig.cache
