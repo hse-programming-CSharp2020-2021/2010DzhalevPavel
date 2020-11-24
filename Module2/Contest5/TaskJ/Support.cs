@@ -9,27 +9,41 @@ public class Support
 
     public int OpenTask(string text)
     {
-        throw new NotImplementedException();
+        tasks.Add(new Task(tasks.Count+1, text));
+        return tasks.Count;
     }
 
     public void CloseTask(int id, string answer)
     {
-        throw new NotImplementedException();
+        tasks[id-1].Answer = answer;
+        tasks[id-1].IsResolved = true;
     }
 
     public List<Task> GetAllUnresolvedTasks()
     {
-        throw new NotImplementedException();
+        List<Task> newList = new List<Task>();
+        foreach (Task task in tasks)
+        {
+            if(task.IsResolved==false)
+                newList.Add(task);
+        }
+        return newList;
     }
 
     public void CloseAllUnresolvedTasksWithDefaultAnswer(string answer)
     {
-        throw new NotImplementedException();
+        foreach (Task task in tasks)
+        {
+            if (task.IsResolved == false)
+            {
+                CloseTask(task.Id, answer);
+            }
+        }
 
     }
 
     public string GetTaskInfo(int id)
     {
-        throw new NotImplementedException();
+        return tasks[id-1].ToString();
     }
 }

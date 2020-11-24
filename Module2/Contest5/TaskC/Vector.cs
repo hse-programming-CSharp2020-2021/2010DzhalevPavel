@@ -10,10 +10,10 @@ partial class Program
         bool flag = true;
         string input = File.ReadAllText(filename);
         int index = 0;
-        vector = new int[input.Split(" ").Length];
+        vector = new int[input.Split(' ').Length];
         try
         {
-            foreach (string number in input.Split(" "))
+            foreach (string number in input.Split(' '))
             {
                 vector[index] = int.Parse(number);
                 index++;

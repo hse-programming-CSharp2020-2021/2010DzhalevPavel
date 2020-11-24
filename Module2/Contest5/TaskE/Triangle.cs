@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 public class Triangle
 {
@@ -19,27 +20,77 @@ public class Triangle
 
     public double GetPerimeter()
     {
-        throw new NotImplementedException();
+        return AB + AC + BC;
     }
 
     public double GetSquare()
     {
-        throw new NotImplementedException();
+        double s = GetPerimeter() / 2;
+        return Math.Sqrt(s * (s - AB) * (s - BC) * (s - AC));
     }
 
     public bool GetAngleBetweenEqualsSides(out double angle)
     {
-        throw new NotImplementedException();
+        if (Math.Abs(AB - AC) < 0.0001)
+        {
+            angle = Math.Acos(1 - (AC * AC) / (2 * AC * AC));
+            return true;
+        }
+
+        if (Math.Abs(AB - BC) < 0.0001)
+        {
+            angle = Math.Acos(1 - (AC * AC) / (2 * AB * AB));
+            return true;
+        }
+
+        if (Math.Abs(AC - BC) < 0.0001)
+        {
+            angle = Math.Acos(1 - (AB * AB) / (2 * AC * AC));
+            return true;
+        }
+
+        angle = 0;
+        return false;
     }
 
     public bool GetHypotenuse(out double hypotenuse)
     {
-        throw new NotImplementedException();
+        hypotenuse = 0;
+        bool flag = false;
+        if (AB > AC && AB > BC)
+        {
+            if (Math.Abs(AB * AB - (AC * AC + BC * BC)) < 0.001)
+            {
+                hypotenuse = AB;
+                flag = true;
+            }
+        }
+        else if (AC > AB && AC > BC)
+        {
+            if (Math.Abs(AC * AC - (AB * AB + BC * BC)) < 0.001)
+            {
+                hypotenuse = AC;
+                flag = true;
+            }
+        }
+        else if (BC > AB && BC > AC)
+        {
+            if (Math.Abs(BC * BC - (AB * AB + AC * AC)) < 0.001)
+            {
+                hypotenuse = BC;
+                flag = true;
+            }
+        }
+
+        return flag;
     }
 
-    
+
     private static double GetLengthOfSide(Point first, Point second)
     {
-        throw new NotImplementedException();
+        double dist = Math.Sqrt(Math.Pow((second.GetX() - first.GetX()), 2) +
+                                Math.Pow((second.GetY() - first.GetY()), 2));
+        //Console.WriteLine(dist);
+        return dist;
     }
 }

@@ -1,0 +1,13 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem5/CW/Figures/obj/Debug/netcoreapp3.1/Figures.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem5/CW/Figures/obj/Debug/netcoreapp3.1/Figures.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem5/CW/Figures/obj/Debug/netcoreapp3.1/Figures.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem5/CW/Figures/obj/Debug/netcoreapp3.1/Figures.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem5/CW/Figures/bin/Debug/netcoreapp3.1/Figures
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem5/CW/Figures/bin/Debug/netcoreapp3.1/Figures.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem5/CW/Figures/bin/Debug/netcoreapp3.1/Figures.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem5/CW/Figures/bin/Debug/netcoreapp3.1/Figures.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem5/CW/Figures/bin/Debug/netcoreapp3.1/Figures.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem5/CW/Figures/bin/Debug/netcoreapp3.1/Figures.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem5/CW/Figures/obj/Debug/netcoreapp3.1/Figures.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem5/CW/Figures/obj/Debug/netcoreapp3.1/Figures.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem5/CW/Figures/obj/Debug/netcoreapp3.1/Figures.genruntimeconfig.cache

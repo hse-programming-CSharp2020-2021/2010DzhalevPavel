@@ -1,0 +1,16 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest6/TaskA/bin/Debug/netcoreapp5.0/TaskA
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest6/TaskA/bin/Debug/netcoreapp5.0/TaskA.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest6/TaskA/bin/Debug/netcoreapp5.0/TaskA.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest6/TaskA/bin/Debug/netcoreapp5.0/TaskA.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest6/TaskA/bin/Debug/netcoreapp5.0/TaskA.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest6/TaskA/bin/Debug/netcoreapp5.0/ref/TaskA.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest6/TaskA/bin/Debug/netcoreapp5.0/TaskA.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest6/TaskA/obj/Debug/netcoreapp5.0/TaskA.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest6/TaskA/obj/Debug/netcoreapp5.0/TaskA.GeneratedMSBuildEditorConfig.editorconfig
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest6/TaskA/obj/Debug/netcoreapp5.0/TaskA.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest6/TaskA/obj/Debug/netcoreapp5.0/TaskA.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest6/TaskA/obj/Debug/netcoreapp5.0/TaskA.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest6/TaskA/obj/Debug/netcoreapp5.0/TaskA.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest6/TaskA/obj/Debug/netcoreapp5.0/ref/TaskA.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest6/TaskA/obj/Debug/netcoreapp5.0/TaskA.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest6/TaskA/obj/Debug/netcoreapp5.0/TaskA.genruntimeconfig.cache

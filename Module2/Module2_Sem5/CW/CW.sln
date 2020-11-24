@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes", "Notes\Notes.csproj", "{29C33128-C029-4824-B1E8-A4B84B409C11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Figures\Figures.csproj", "{52A74593-8BFC-425A-9F44-88C683644267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Functions.csproj", "{CD5FCB7D-0051-4FD2-ACA8-0147DB2AFCDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C33128-C029-4824-B1E8-A4B84B409C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C33128-C029-4824-B1E8-A4B84B409C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C33128-C029-4824-B1E8-A4B84B409C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C33128-C029-4824-B1E8-A4B84B409C11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A74593-8BFC-425A-9F44-88C683644267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A74593-8BFC-425A-9F44-88C683644267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A74593-8BFC-425A-9F44-88C683644267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A74593-8BFC-425A-9F44-88C683644267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD5FCB7D-0051-4FD2-ACA8-0147DB2AFCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5FCB7D-0051-4FD2-ACA8-0147DB2AFCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5FCB7D-0051-4FD2-ACA8-0147DB2AFCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5FCB7D-0051-4FD2-ACA8-0147DB2AFCDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

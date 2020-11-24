@@ -8,5 +8,6 @@ partial class Program
         uint rowCount = uint.Parse(Console.ReadLine());
         PrintJaggedArray(GetBellTriangle(rowCount));
     }
+    //official.contest.yandex.ru/contest/21735/enter/
 }
 

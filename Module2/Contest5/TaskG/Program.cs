@@ -15,5 +15,5 @@ public partial class Program
         {
             Logger.HandleCommand(Console.ReadLine());
         }
-    }
+    }  
 }
