@@ -1,0 +1,13 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/CW/StringMethods/bin/Debug/netcoreapp3.1/StringMethods
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/CW/StringMethods/bin/Debug/netcoreapp3.1/StringMethods.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/CW/StringMethods/bin/Debug/netcoreapp3.1/StringMethods.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/CW/StringMethods/bin/Debug/netcoreapp3.1/StringMethods.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/CW/StringMethods/bin/Debug/netcoreapp3.1/StringMethods.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/CW/StringMethods/bin/Debug/netcoreapp3.1/StringMethods.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/CW/StringMethods/obj/Debug/netcoreapp3.1/StringMethods.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/CW/StringMethods/obj/Debug/netcoreapp3.1/StringMethods.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/CW/StringMethods/obj/Debug/netcoreapp3.1/StringMethods.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/CW/StringMethods/obj/Debug/netcoreapp3.1/StringMethods.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/CW/StringMethods/obj/Debug/netcoreapp3.1/StringMethods.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/CW/StringMethods/obj/Debug/netcoreapp3.1/StringMethods.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/CW/StringMethods/obj/Debug/netcoreapp3.1/StringMethods.genruntimeconfig.cache

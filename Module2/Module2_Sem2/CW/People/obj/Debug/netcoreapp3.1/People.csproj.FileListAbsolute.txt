@@ -1,0 +1,13 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/People/bin/Debug/netcoreapp3.1/People
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/People/bin/Debug/netcoreapp3.1/People.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/People/bin/Debug/netcoreapp3.1/People.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/People/bin/Debug/netcoreapp3.1/People.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/People/bin/Debug/netcoreapp3.1/People.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/People/bin/Debug/netcoreapp3.1/People.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/People/obj/Debug/netcoreapp3.1/People.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/People/obj/Debug/netcoreapp3.1/People.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/People/obj/Debug/netcoreapp3.1/People.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/People/obj/Debug/netcoreapp3.1/People.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/People/obj/Debug/netcoreapp3.1/People.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/People/obj/Debug/netcoreapp3.1/People.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Module2_Sem2/CW/People/obj/Debug/netcoreapp3.1/People.genruntimeconfig.cache
