@@ -1,0 +1,4 @@
+User Vasya: login registered
+User Vasya: generate number 635
+User Petya: login registered
+User Petya: generate number 269128093

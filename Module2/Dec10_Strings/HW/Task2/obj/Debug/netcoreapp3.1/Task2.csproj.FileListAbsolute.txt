@@ -1,0 +1,13 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/HW/Task2/bin/Debug/netcoreapp3.1/Task2
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/HW/Task2/bin/Debug/netcoreapp3.1/Task2.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/HW/Task2/bin/Debug/netcoreapp3.1/Task2.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/HW/Task2/bin/Debug/netcoreapp3.1/Task2.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/HW/Task2/bin/Debug/netcoreapp3.1/Task2.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/HW/Task2/bin/Debug/netcoreapp3.1/Task2.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/HW/Task2/obj/Debug/netcoreapp3.1/Task2.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/HW/Task2/obj/Debug/netcoreapp3.1/Task2.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/HW/Task2/obj/Debug/netcoreapp3.1/Task2.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/HW/Task2/obj/Debug/netcoreapp3.1/Task2.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/HW/Task2/obj/Debug/netcoreapp3.1/Task2.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/HW/Task2/obj/Debug/netcoreapp3.1/Task2.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Dec10_Strings/HW/Task2/obj/Debug/netcoreapp3.1/Task2.genruntimeconfig.cache
