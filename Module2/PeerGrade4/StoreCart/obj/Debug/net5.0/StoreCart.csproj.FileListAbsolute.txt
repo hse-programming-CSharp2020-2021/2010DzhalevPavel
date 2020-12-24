@@ -1,0 +1,16 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/bin/Debug/net5.0/StoreCart
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/bin/Debug/net5.0/StoreCart.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/bin/Debug/net5.0/StoreCart.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/bin/Debug/net5.0/StoreCart.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/bin/Debug/net5.0/StoreCart.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/bin/Debug/net5.0/ref/StoreCart.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/bin/Debug/net5.0/StoreCart.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/Debug/net5.0/StoreCart.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/Debug/net5.0/StoreCart.GeneratedMSBuildEditorConfig.editorconfig
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/Debug/net5.0/StoreCart.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/Debug/net5.0/StoreCart.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/Debug/net5.0/StoreCart.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/Debug/net5.0/StoreCart.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/Debug/net5.0/ref/StoreCart.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/Debug/net5.0/StoreCart.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/Debug/net5.0/StoreCart.genruntimeconfig.cache

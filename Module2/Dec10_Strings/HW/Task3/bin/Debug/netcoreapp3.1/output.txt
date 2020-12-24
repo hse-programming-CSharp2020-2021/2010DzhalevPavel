@@ -1,0 +1,103 @@
+using System;
+using System;
+using System.IO;
+using System.IO;
+
+
+namespace Task3
+namespace Task3
+{
+{
+class Program
+    class Program
+{
+    {
+static int[] stat = new int[26]; // статистика по лат. буквам
+        static int[] stat = new int[26]; // статистика по лат. буквам
+
+
+static void Main(string[] args)
+        static void Main(string[] args)
+{
+        {
+string tmp;
+            string tmp;
+int openBrackets = 0; // количество {
+            int openBrackets = 0; // количество {
+int closedBrackets = 0; // количество }
+            int closedBrackets = 0; // количество }
+int total = 0; // общее количество символов файла
+            int total = 0; // общее количество символов файла
+var Out = new StreamWriter("output.txt");
+            var Out = new StreamWriter("output.txt");
+
+
+var In = Console.In; // Запоминаем стандартный входной поток
+            var In = Console.In; // Запоминаем стандартный входной поток
+// Создаем файл и текстовый входной поток:
+            // Создаем файл и текстовый входной поток: 
+StreamReader stream_in = new StreamReader(@"../../../Program.cs");
+            StreamReader stream_in = new StreamReader(@"../../../Program.cs");
+// Настраиваем стандартный входной поток на чтение из файла:
+            // Настраиваем стандартный входной поток на чтение из файла:
+Console.SetIn(stream_in);
+            Console.SetIn(stream_in);
+// чтение из файла
+            // чтение из файла
+// восстановление потока
+            // восстановление потока
+
+
+while (true)
+            while (true)
+{
+            {
+// цикл бесконечен
+                // цикл бесконечен
+tmp = stream_in.ReadLine();
+                tmp = stream_in.ReadLine();
+if (tmp == null) break; // условие прерывание цикла
+                if (tmp == null) break; // условие прерывание цикла
+total += tmp.Length;
+                total += tmp.Length;
+// подсчёт количества фигурных скобок
+                // подсчёт количества фигурных скобок
+BracketsCount(tmp, ref openBrackets, ref closedBrackets);
+                BracketsCount(tmp, ref openBrackets, ref closedBrackets);
+Out.WriteLine(tmp.Trim());
+                Out.WriteLine(tmp.Trim());
+Out.WriteLine(tmp);
+                Out.WriteLine(tmp);
+}
+            }
+
+
+// восстанавливаем состояние потока
+            // восстанавливаем состояние потока
+stream_in.Close();
+            stream_in.Close();
+Console.SetIn(In);
+            Console.SetIn(In);
+// обрабатываем данные по скобкам
+            // обрабатываем данные по скобкам
+tmp = "Баланс скобок не соблюдён";
+            tmp = "Баланс скобок не соблюдён";
+if (openBrackets == closedBrackets)
+            if (openBrackets == closedBrackets)
+tmp = "Баланс скобок соблюдён, количество блоков " + closedBrackets;
+                tmp = "Баланс скобок соблюдён, количество блоков " + closedBrackets;
+Out.WriteLine(StatToString());
+            Out.WriteLine(StatToString());
+Out.WriteLine(tmp);
+            Out.WriteLine(tmp);
+Console.WriteLine("Для завершения работы нажмите любую клавишу.");
+            Console.WriteLine("Для завершения работы нажмите любую клавишу.");
+Console.ReadKey();
+            Console.ReadKey();
+}
+        }
+
+
+/// <summary>
+        /// <summary>
+/// Вычисляет количество открывающи�

@@ -1,0 +1,13 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/bin/Debug/netcoreapp3.1/StoreCart
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/bin/Debug/netcoreapp3.1/StoreCart.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/bin/Debug/netcoreapp3.1/StoreCart.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/bin/Debug/netcoreapp3.1/StoreCart.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/bin/Debug/netcoreapp3.1/StoreCart.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/bin/Debug/netcoreapp3.1/StoreCart.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/Debug/netcoreapp3.1/StoreCart.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/Debug/netcoreapp3.1/StoreCart.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/Debug/netcoreapp3.1/StoreCart.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/Debug/netcoreapp3.1/StoreCart.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/Debug/netcoreapp3.1/StoreCart.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/Debug/netcoreapp3.1/StoreCart.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/Debug/netcoreapp3.1/StoreCart.genruntimeconfig.cache

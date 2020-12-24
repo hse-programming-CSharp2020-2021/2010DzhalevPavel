@@ -1,0 +1,13 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskB/bin/Debug/netcoreapp3.1/TaskB
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskB/bin/Debug/netcoreapp3.1/TaskB.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskB/bin/Debug/netcoreapp3.1/TaskB.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskB/bin/Debug/netcoreapp3.1/TaskB.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskB/bin/Debug/netcoreapp3.1/TaskB.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskB/bin/Debug/netcoreapp3.1/TaskB.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskB/obj/Debug/netcoreapp3.1/TaskB.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskB/obj/Debug/netcoreapp3.1/TaskB.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskB/obj/Debug/netcoreapp3.1/TaskB.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskB/obj/Debug/netcoreapp3.1/TaskB.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskB/obj/Debug/netcoreapp3.1/TaskB.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskB/obj/Debug/netcoreapp3.1/TaskB.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskB/obj/Debug/netcoreapp3.1/TaskB.genruntimeconfig.cache

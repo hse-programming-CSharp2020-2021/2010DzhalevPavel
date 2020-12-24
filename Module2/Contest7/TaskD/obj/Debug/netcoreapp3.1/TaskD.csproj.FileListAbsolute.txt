@@ -1,0 +1,13 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskD/obj/Debug/netcoreapp3.1/TaskD.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskD/obj/Debug/netcoreapp3.1/TaskD.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskD/obj/Debug/netcoreapp3.1/TaskD.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskD/obj/Debug/netcoreapp3.1/TaskD.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskD/bin/Debug/netcoreapp3.1/TaskD
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskD/bin/Debug/netcoreapp3.1/TaskD.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskD/bin/Debug/netcoreapp3.1/TaskD.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskD/bin/Debug/netcoreapp3.1/TaskD.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskD/bin/Debug/netcoreapp3.1/TaskD.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskD/bin/Debug/netcoreapp3.1/TaskD.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskD/obj/Debug/netcoreapp3.1/TaskD.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskD/obj/Debug/netcoreapp3.1/TaskD.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/Contest7/TaskD/obj/Debug/netcoreapp3.1/TaskD.genruntimeconfig.cache
