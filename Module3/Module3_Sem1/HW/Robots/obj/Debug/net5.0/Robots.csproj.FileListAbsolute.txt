@@ -1,0 +1,16 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/Robots/bin/Debug/net5.0/Robots
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/Robots/bin/Debug/net5.0/Robots.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/Robots/bin/Debug/net5.0/Robots.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/Robots/bin/Debug/net5.0/Robots.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/Robots/bin/Debug/net5.0/Robots.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/Robots/bin/Debug/net5.0/ref/Robots.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/Robots/bin/Debug/net5.0/Robots.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/Robots/obj/Debug/net5.0/Robots.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/Robots/obj/Debug/net5.0/Robots.GeneratedMSBuildEditorConfig.editorconfig
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/Robots/obj/Debug/net5.0/Robots.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/Robots/obj/Debug/net5.0/Robots.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/Robots/obj/Debug/net5.0/Robots.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/Robots/obj/Debug/net5.0/Robots.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/Robots/obj/Debug/net5.0/ref/Robots.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/Robots/obj/Debug/net5.0/Robots.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/Robots/obj/Debug/net5.0/Robots.genruntimeconfig.cache

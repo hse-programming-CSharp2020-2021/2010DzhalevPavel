@@ -1,0 +1,13 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/TempConvert/bin/Debug/netcoreapp3.1/TempConvert
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/TempConvert/bin/Debug/netcoreapp3.1/TempConvert.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/TempConvert/bin/Debug/netcoreapp3.1/TempConvert.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/TempConvert/bin/Debug/netcoreapp3.1/TempConvert.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/TempConvert/bin/Debug/netcoreapp3.1/TempConvert.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/TempConvert/bin/Debug/netcoreapp3.1/TempConvert.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/TempConvert/obj/Debug/netcoreapp3.1/TempConvert.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/TempConvert/obj/Debug/netcoreapp3.1/TempConvert.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/TempConvert/obj/Debug/netcoreapp3.1/TempConvert.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/TempConvert/obj/Debug/netcoreapp3.1/TempConvert.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/TempConvert/obj/Debug/netcoreapp3.1/TempConvert.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/TempConvert/obj/Debug/netcoreapp3.1/TempConvert.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem1/HW/TempConvert/obj/Debug/netcoreapp3.1/TempConvert.genruntimeconfig.cache
