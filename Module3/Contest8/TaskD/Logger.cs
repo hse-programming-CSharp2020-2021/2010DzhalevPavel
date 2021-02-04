@@ -12,12 +12,15 @@ class Logger
 
     public void OutputLogs()
     {
-        throw new NotImplementedException();
+        foreach (var log in list)
+        {
+            log.Method(log.Log);
+        }
     }
 
     public void MakeLog(Print method, string line)
     {
-        throw new NotImplementedException();
+        list.Add(new LogPair(method, line));
     }
 }
 

@@ -6,16 +6,18 @@ public class IntWrapper
 
     public int Number
     {
-        get { return number; }
+        get => number;
+        set => number = value;
     }
 
     public IntWrapper(int number)
     {
-        throw new NotImplementedException();
+        Number = number;
     }
 
     public uint FindNumberLength()
     {
-        throw new NotImplementedException();
+        if (number < 0) throw new ArgumentException("Number should be non-negative.");
+        return (uint)number.ToString().Length;
     }
 }
