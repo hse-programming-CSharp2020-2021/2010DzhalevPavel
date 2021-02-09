@@ -2,16 +2,31 @@
 
 internal class Hipster
 {
-    private int money;
+    public int money;
     private int donate;
 
     public Hipster(int money, int donate)
     {
-        throw new NotImplementedException();
+        this.money = money;
+        this.donate = donate;
     }
 
     public int GetMoney()
     {
-        throw new NotImplementedException();
+        if (money >= donate)
+        {
+            money -= donate;
+            return donate;
+        }
+
+        if (money < donate && money>0)
+        {
+            int t = money;
+            money = 0;
+            return t;
+        }
+
+        return 0;
+
     }
 }

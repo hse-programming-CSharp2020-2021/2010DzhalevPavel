@@ -10,6 +10,9 @@ class Calendar
 
     public void Simulate(DateTime startTime, DateTime endTime)
     {
-        throw new NotImplementedException();
+        foreach ()
+        {
+            
+        }
     }
 }

@@ -1,5 +1,7 @@
 ﻿using System;
 
+//https://official.contest.yandex.ru/contest/24574/enter
+
 delegate double Calculate(int n);
 
 class Program

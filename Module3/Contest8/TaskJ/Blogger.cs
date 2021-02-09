@@ -12,12 +12,13 @@ class Blogger
 
     public Blogger(DayOfWeek postDay)
     {
-        throw new NotImplementedException();
+        this.postDay = postDay;
     }
 
     public void MakePost(DateTime date)
     {
-        throw new NotImplementedException();
+        if (date.DayOfWeek == postDay)
+            Post(date);
     }
 }
 

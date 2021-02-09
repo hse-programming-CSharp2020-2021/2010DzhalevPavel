@@ -2,13 +2,23 @@
 
 public abstract class Mob
 {
-    public Mob(int hp, int attack)
+    public int HP { get; private set; }
+    protected int Attack { get; }
+
+    protected Mob(int hp, int attack)
     {
-        throw new NotImplementedException();
+        HP = hp;
+        Attack = attack;
     }
     
     public void AttackMob(Mob other)
     {
-        throw new NotImplementedException();
+        do
+        {
+            Console.WriteLine($"{other} attacked {this}");
+            Console.WriteLine($"{this} attacked {other}");
+            HP -= other.Attack;
+            other.HP -= Attack;
+        } while (other.HP > 0 && HP > 0);
     }
 }

@@ -2,14 +2,21 @@
 
 public class Hero : Mob
 {
+    private readonly int _initialHp;
     public Hero(int hp, int attack) : base(hp,attack)
     {
-        throw new NotImplementedException();
+        _initialHp = hp;
     }
 
     public bool IsHpMoreThen75()
     {
-        throw new NotImplementedException();
+        if (HP >= 75*_initialHp/100) return true;
+        return false;
+    }
+
+    public override string ToString()
+    {
+        return $"Mario with HP = {HP} and attack = {Attack}";
     }
 }
 

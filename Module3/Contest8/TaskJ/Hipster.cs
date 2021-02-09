@@ -11,19 +11,25 @@ class Hipster
 
     public int PostsRead { get; private set; }
 
+    private List<Blogger> subscribedTo;
+
     public Hipster(int departureDay, int arrivalDay)
     {
-        throw new NotImplementedException();
+        this.departureDay = departureDay;
+        this.arrivalDay = arrivalDay;
     }
 
     public void ReadPost(DateTime date)
     {
-        throw new NotImplementedException();
+        if(date.Day<departureDay || date.Day > arrivalDay)
+            foreach (var blogger in subscribedTo)
+            {
+            }
     }
 
     public void Subscribe(Blogger blogger)
     {
-        throw new NotImplementedException();
+        subscribedTo.Add(blogger);
     }
 }
 
