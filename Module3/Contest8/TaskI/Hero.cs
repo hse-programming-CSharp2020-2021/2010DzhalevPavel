@@ -17,6 +17,6 @@ public class Hero : Mob
     public override string ToString()
     {
         return $"Mario with HP = {HP} and attack = {Attack}";
-    }
+    } 
 }
 
