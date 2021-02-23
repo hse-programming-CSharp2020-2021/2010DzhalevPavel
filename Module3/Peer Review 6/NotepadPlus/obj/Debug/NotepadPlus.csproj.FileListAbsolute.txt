@@ -7,4 +7,9 @@ C:\Users\padja\OneDrive\Documents\HSE\First Year\Programming2\2010DzhalevPavel\M
 C:\Users\padja\OneDrive\Documents\HSE\First Year\Programming2\2010DzhalevPavel\Module3\Peer Review 6\NotepadPlus\obj\Debug\NotepadPlus.csproj.CoreCompileInputs.cache
 C:\Users\padja\OneDrive\Documents\HSE\First Year\Programming2\2010DzhalevPavel\Module3\Peer Review 6\NotepadPlus\obj\Debug\NotepadPlus.exe
 C:\Users\padja\OneDrive\Documents\HSE\First Year\Programming2\2010DzhalevPavel\Module3\Peer Review 6\NotepadPlus\obj\Debug\NotepadPlus.pdb
-C:\Users\padja\OneDrive\Documents\HSE\First Year\Programming2\2010DzhalevPavel\Module3\Peer Review 6\NotepadPlus\obj\Debug\NotepadPlus.Form1.resources
+C:\Users\padja\OneDrive\Documents\HSE\First Year\Programming2\2010DzhalevPavel\Module3\Peer Review 6\NotepadPlus\obj\Debug\NotepadPlus.MainForm.resources
+C:\Users\padja\OneDrive\Documents\HSE\First Year\Programming2\2010DzhalevPavel\Module3\Peer Review 6\NotepadPlus\obj\Debug\NotepadPlus.About.resources
+C:\Users\padja\OneDrive\Documents\HSE\First Year\Programming2\2010DzhalevPavel\Module3\Peer Review 6\NotepadPlus\obj\Debug\NotepadPlus.SettingsForm.resources
+C:\Users\padja\OneDrive\Documents\HSE\First Year\Programming2\2010DzhalevPavel\Module3\Peer Review 6\NotepadPlus\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\padja\OneDrive\Documents\HSE\First Year\Programming2\2010DzhalevPavel\Module3\Peer Review 6\NotepadPlus\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\padja\OneDrive\Documents\HSE\First Year\Programming2\2010DzhalevPavel\Module3\Peer Review 6\NotepadPlus\obj\Debug\NotepadPlus.csproj.CopyComplete
