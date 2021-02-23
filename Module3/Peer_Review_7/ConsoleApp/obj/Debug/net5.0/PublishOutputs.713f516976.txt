@@ -1,0 +1,8 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ConsoleApp/ConsoleApp
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ConsoleApp/ConsoleApp.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ConsoleApp/ConsoleApp.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ConsoleApp/ConsoleApp.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ConsoleApp/ConsoleApp.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ConsoleApp/Newtonsoft.Json.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ConsoleApp/ManageTasksLibrary.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ConsoleApp/ManageTasksLibrary.pdb

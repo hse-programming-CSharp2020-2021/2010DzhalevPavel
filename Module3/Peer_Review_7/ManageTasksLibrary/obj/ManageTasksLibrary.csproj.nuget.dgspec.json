@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/StoreCart.csproj": {}
+    "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/ManageTasksLibrary.csproj": {}
   },
   "projects": {
-    "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/StoreCart.csproj": {
+    "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/ManageTasksLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/StoreCart.csproj",
-        "projectName": "StoreCart",
-        "projectPath": "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/StoreCart.csproj",
+        "projectUniqueName": "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/ManageTasksLibrary.csproj",
+        "projectName": "ManageTasksLibrary",
+        "projectPath": "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/ManageTasksLibrary.csproj",
         "packagesPath": "/home/padjal/.nuget/packages/",
-        "outputPath": "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module2/PeerGrade4/StoreCart/obj/",
+        "outputPath": "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/padjal/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
