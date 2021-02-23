@@ -1,0 +1,12 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/bin/Debug/net5.0/ManageTasksLibrary.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/bin/Debug/net5.0/ManageTasksLibrary.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/bin/Debug/net5.0/ref/ManageTasksLibrary.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/bin/Debug/net5.0/ManageTasksLibrary.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/obj/Debug/net5.0/ManageTasksLibrary.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/obj/Debug/net5.0/ManageTasksLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/obj/Debug/net5.0/ManageTasksLibrary.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/obj/Debug/net5.0/ManageTasksLibrary.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/obj/Debug/net5.0/ManageTasksLibrary.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/obj/Debug/net5.0/ManageTasksLibrary.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/obj/Debug/net5.0/ref/ManageTasksLibrary.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Peer_Review_7/ManageTasksLibrary/obj/Debug/net5.0/ManageTasksLibrary.pdb
