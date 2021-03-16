@@ -1,0 +1,16 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/ReadText/bin/Debug/net5.0/ReadText
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/ReadText/bin/Debug/net5.0/ReadText.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/ReadText/bin/Debug/net5.0/ReadText.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/ReadText/bin/Debug/net5.0/ReadText.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/ReadText/bin/Debug/net5.0/ReadText.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/ReadText/bin/Debug/net5.0/ref/ReadText.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/ReadText/bin/Debug/net5.0/ReadText.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/ReadText/obj/Debug/net5.0/ReadText.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/ReadText/obj/Debug/net5.0/ReadText.GeneratedMSBuildEditorConfig.editorconfig
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/ReadText/obj/Debug/net5.0/ReadText.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/ReadText/obj/Debug/net5.0/ReadText.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/ReadText/obj/Debug/net5.0/ReadText.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/ReadText/obj/Debug/net5.0/ReadText.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/ReadText/obj/Debug/net5.0/ref/ReadText.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/ReadText/obj/Debug/net5.0/ReadText.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/ReadText/obj/Debug/net5.0/ReadText.genruntimeconfig.cache

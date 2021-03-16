@@ -1,0 +1,16 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/FourFiles/bin/Debug/net5.0/FourFiles
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/FourFiles/bin/Debug/net5.0/FourFiles.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/FourFiles/bin/Debug/net5.0/FourFiles.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/FourFiles/bin/Debug/net5.0/FourFiles.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/FourFiles/bin/Debug/net5.0/FourFiles.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/FourFiles/bin/Debug/net5.0/ref/FourFiles.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/FourFiles/bin/Debug/net5.0/FourFiles.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/FourFiles/obj/Debug/net5.0/FourFiles.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/FourFiles/obj/Debug/net5.0/FourFiles.GeneratedMSBuildEditorConfig.editorconfig
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/FourFiles/obj/Debug/net5.0/FourFiles.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/FourFiles/obj/Debug/net5.0/FourFiles.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/FourFiles/obj/Debug/net5.0/FourFiles.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/FourFiles/obj/Debug/net5.0/FourFiles.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/FourFiles/obj/Debug/net5.0/ref/FourFiles.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/FourFiles/obj/Debug/net5.0/FourFiles.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem8/Classwork/FourFiles/obj/Debug/net5.0/FourFiles.genruntimeconfig.cache
