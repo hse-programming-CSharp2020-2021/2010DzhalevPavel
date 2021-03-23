@@ -1,0 +1,16 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/WriteNumbers/bin/Debug/net5.0/WriteNumbers
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/WriteNumbers/bin/Debug/net5.0/WriteNumbers.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/WriteNumbers/bin/Debug/net5.0/WriteNumbers.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/WriteNumbers/bin/Debug/net5.0/WriteNumbers.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/WriteNumbers/bin/Debug/net5.0/WriteNumbers.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/WriteNumbers/bin/Debug/net5.0/ref/WriteNumbers.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/WriteNumbers/bin/Debug/net5.0/WriteNumbers.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/WriteNumbers/obj/Debug/net5.0/WriteNumbers.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/WriteNumbers/obj/Debug/net5.0/WriteNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/WriteNumbers/obj/Debug/net5.0/WriteNumbers.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/WriteNumbers/obj/Debug/net5.0/WriteNumbers.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/WriteNumbers/obj/Debug/net5.0/WriteNumbers.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/WriteNumbers/obj/Debug/net5.0/WriteNumbers.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/WriteNumbers/obj/Debug/net5.0/ref/WriteNumbers.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/WriteNumbers/obj/Debug/net5.0/WriteNumbers.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/WriteNumbers/obj/Debug/net5.0/WriteNumbers.genruntimeconfig.cache

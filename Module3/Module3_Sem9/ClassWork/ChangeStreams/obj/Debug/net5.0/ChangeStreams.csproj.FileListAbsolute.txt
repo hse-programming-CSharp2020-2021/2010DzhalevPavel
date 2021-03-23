@@ -1,0 +1,16 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/ChangeStreams/bin/Debug/net5.0/ChangeStreams
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/ChangeStreams/bin/Debug/net5.0/ChangeStreams.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/ChangeStreams/bin/Debug/net5.0/ChangeStreams.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/ChangeStreams/bin/Debug/net5.0/ChangeStreams.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/ChangeStreams/bin/Debug/net5.0/ChangeStreams.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/ChangeStreams/bin/Debug/net5.0/ref/ChangeStreams.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/ChangeStreams/bin/Debug/net5.0/ChangeStreams.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/ChangeStreams/obj/Debug/net5.0/ChangeStreams.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/ChangeStreams/obj/Debug/net5.0/ChangeStreams.GeneratedMSBuildEditorConfig.editorconfig
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/ChangeStreams/obj/Debug/net5.0/ChangeStreams.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/ChangeStreams/obj/Debug/net5.0/ChangeStreams.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/ChangeStreams/obj/Debug/net5.0/ChangeStreams.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/ChangeStreams/obj/Debug/net5.0/ChangeStreams.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/ChangeStreams/obj/Debug/net5.0/ref/ChangeStreams.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/ChangeStreams/obj/Debug/net5.0/ChangeStreams.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/ChangeStreams/obj/Debug/net5.0/ChangeStreams.genruntimeconfig.cache

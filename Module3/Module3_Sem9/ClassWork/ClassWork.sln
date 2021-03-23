@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteNumbers", "WriteNumbers\WriteNumbers.csproj", "{78FDDE41-115C-4514-9400-FFAD7BB91E35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangles", "Rectangles\Rectangles.csproj", "{920DAD5B-9642-407D-A423-0910259E0124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeStreams", "ChangeStreams\ChangeStreams.csproj", "{A7FF044C-1CF2-4987-992C-021C6B63D356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78FDDE41-115C-4514-9400-FFAD7BB91E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78FDDE41-115C-4514-9400-FFAD7BB91E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78FDDE41-115C-4514-9400-FFAD7BB91E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78FDDE41-115C-4514-9400-FFAD7BB91E35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{920DAD5B-9642-407D-A423-0910259E0124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920DAD5B-9642-407D-A423-0910259E0124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920DAD5B-9642-407D-A423-0910259E0124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920DAD5B-9642-407D-A423-0910259E0124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FF044C-1CF2-4987-992C-021C6B63D356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FF044C-1CF2-4987-992C-021C6B63D356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FF044C-1CF2-4987-992C-021C6B63D356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FF044C-1CF2-4987-992C-021C6B63D356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

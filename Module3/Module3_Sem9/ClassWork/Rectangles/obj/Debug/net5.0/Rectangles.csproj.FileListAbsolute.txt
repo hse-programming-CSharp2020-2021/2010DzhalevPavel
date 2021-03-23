@@ -1,0 +1,16 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/Rectangles/bin/Debug/net5.0/Rectangles
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/Rectangles/bin/Debug/net5.0/Rectangles.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/Rectangles/bin/Debug/net5.0/Rectangles.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/Rectangles/bin/Debug/net5.0/Rectangles.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/Rectangles/bin/Debug/net5.0/Rectangles.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/Rectangles/bin/Debug/net5.0/ref/Rectangles.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/Rectangles/bin/Debug/net5.0/Rectangles.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/Rectangles/obj/Debug/net5.0/Rectangles.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/Rectangles/obj/Debug/net5.0/Rectangles.GeneratedMSBuildEditorConfig.editorconfig
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/Rectangles/obj/Debug/net5.0/Rectangles.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/Rectangles/obj/Debug/net5.0/Rectangles.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/Rectangles/obj/Debug/net5.0/Rectangles.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/Rectangles/obj/Debug/net5.0/Rectangles.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/Rectangles/obj/Debug/net5.0/ref/Rectangles.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/Rectangles/obj/Debug/net5.0/Rectangles.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/ClassWork/Rectangles/obj/Debug/net5.0/Rectangles.genruntimeconfig.cache
