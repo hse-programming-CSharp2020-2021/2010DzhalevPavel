@@ -5,6 +5,7 @@
 .idea
 AssemblyInfo.cs
 /obj
+.zip
 
 # User-specific stuff
 .idea/**/workspace.xml
