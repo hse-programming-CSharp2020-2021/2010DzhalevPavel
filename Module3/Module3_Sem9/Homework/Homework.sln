@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpElly", "HelpElly\HelpElly.csproj", "{0A6B3708-0EA5-4985-A66B-75F4A8EAB767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicCity", "MagicCity\MagicCity.csproj", "{912A4394-077B-4BC8-8A03-0E99ED52F9E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A6B3708-0EA5-4985-A66B-75F4A8EAB767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6B3708-0EA5-4985-A66B-75F4A8EAB767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6B3708-0EA5-4985-A66B-75F4A8EAB767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6B3708-0EA5-4985-A66B-75F4A8EAB767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912A4394-077B-4BC8-8A03-0E99ED52F9E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912A4394-077B-4BC8-8A03-0E99ED52F9E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912A4394-077B-4BC8-8A03-0E99ED52F9E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912A4394-077B-4BC8-8A03-0E99ED52F9E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

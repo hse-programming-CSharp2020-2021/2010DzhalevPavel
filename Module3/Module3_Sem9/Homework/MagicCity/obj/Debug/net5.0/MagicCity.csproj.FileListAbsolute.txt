@@ -1,0 +1,12 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/bin/Debug/net5.0/MagicCity.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/bin/Debug/net5.0/MagicCity.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/bin/Debug/net5.0/ref/MagicCity.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/bin/Debug/net5.0/MagicCity.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/obj/Debug/net5.0/MagicCity.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/obj/Debug/net5.0/MagicCity.GeneratedMSBuildEditorConfig.editorconfig
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/obj/Debug/net5.0/MagicCity.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/obj/Debug/net5.0/MagicCity.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/obj/Debug/net5.0/MagicCity.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/obj/Debug/net5.0/MagicCity.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/obj/Debug/net5.0/ref/MagicCity.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/obj/Debug/net5.0/MagicCity.pdb

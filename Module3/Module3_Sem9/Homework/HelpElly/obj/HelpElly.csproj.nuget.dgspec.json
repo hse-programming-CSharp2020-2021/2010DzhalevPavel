@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/HelpElly/HelpElly.csproj": {}
+  },
+  "projects": {
+    "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/HelpElly/HelpElly.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/HelpElly/HelpElly.csproj",
+        "projectName": "HelpElly",
+        "projectPath": "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/HelpElly/HelpElly.csproj",
+        "packagesPath": "/home/padjal/.nuget/packages/",
+        "outputPath": "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/HelpElly/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/padjal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/MagicCity.csproj": {
+                "projectPath": "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/MagicCity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/MagicCity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/MagicCity.csproj",
+        "projectName": "MagicCity",
+        "projectPath": "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/MagicCity.csproj",
+        "packagesPath": "/home/padjal/.nuget/packages/",
+        "outputPath": "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module3/Module3_Sem9/Homework/MagicCity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/padjal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
