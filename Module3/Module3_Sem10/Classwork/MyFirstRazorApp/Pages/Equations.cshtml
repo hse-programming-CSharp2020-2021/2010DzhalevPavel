@@ -1,0 +1,17 @@
+@page
+@model MyFirstRazorApp.Pages.Equations
+
+@{
+    ViewData["Title"] = "Solve equations";
+}
+
+<h2>@Model.Message</h2>
+<form method="post">
+    <label for="a">A</label><br />
+    <input type="number" name="a" id="a" required/><br /><br />
+    <label for="b">B</label><br />
+    <input type="number" name="b" id="b" required/><br /><br />
+    <label for="c">C</label><br />
+    <input type="number" name="c" id="c" required/><br /><br />
+    <input type="submit" value="Calculate" />
+</form>
