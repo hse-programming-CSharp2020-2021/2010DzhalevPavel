@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<ArrayOfConsoleSymbol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ConsoleSymbol xsi:type="ColorConsoleSymbol">
+    <Symb>118</Symb>
+    <X>81</X>
+    <Y>85</Y>
+    <Color />
+  </ConsoleSymbol>
+  <ConsoleSymbol>
+    <Symb>122</Symb>
+    <X>79</X>
+    <Y>4</Y>
+  </ConsoleSymbol>
+  <ConsoleSymbol xsi:type="ColorConsoleSymbol">
+    <Symb>101</Symb>
+    <X>78</X>
+    <Y>22</Y>
+    <Color />
+  </ConsoleSymbol>
+  <ConsoleSymbol xsi:type="ColorConsoleSymbol">
+    <Symb>119</Symb>
+    <X>14</X>
+    <Y>55</Y>
+    <Color />
+  </ConsoleSymbol>
+  <ConsoleSymbol>
+    <Symb>108</Symb>
+    <X>48</X>
+    <Y>76</Y>
+  </ConsoleSymbol>
+  <ConsoleSymbol xsi:type="ColorConsoleSymbol">
+    <Symb>113</Symb>
+    <X>77</X>
+    <Y>13</Y>
+    <Color />
+  </ConsoleSymbol>
+  <ConsoleSymbol xsi:type="ColorConsoleSymbol">
+    <Symb>112</Symb>
+    <X>81</X>
+    <Y>67</Y>
+    <Color />
+  </ConsoleSymbol>
+  <ConsoleSymbol xsi:type="ColorConsoleSymbol">
+    <Symb>111</Symb>
+    <X>84</X>
+    <Y>34</Y>
+    <Color />
+  </ConsoleSymbol>
+  <ConsoleSymbol>
+    <Symb>112</Symb>
+    <X>31</X>
+    <Y>97</Y>
+  </ConsoleSymbol>
+  <ConsoleSymbol>
+    <Symb>121</Symb>
+    <X>15</X>
+    <Y>64</Y>
+  </ConsoleSymbol>
+</ArrayOfConsoleSymbol>

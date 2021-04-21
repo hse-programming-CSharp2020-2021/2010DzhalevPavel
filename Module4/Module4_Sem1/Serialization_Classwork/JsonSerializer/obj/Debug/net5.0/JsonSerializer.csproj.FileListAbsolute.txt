@@ -1,0 +1,16 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem1/Serialization_Classwork/JsonSerializer/bin/Debug/net5.0/JsonSerializer
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem1/Serialization_Classwork/JsonSerializer/bin/Debug/net5.0/JsonSerializer.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem1/Serialization_Classwork/JsonSerializer/bin/Debug/net5.0/JsonSerializer.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem1/Serialization_Classwork/JsonSerializer/bin/Debug/net5.0/JsonSerializer.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem1/Serialization_Classwork/JsonSerializer/bin/Debug/net5.0/JsonSerializer.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem1/Serialization_Classwork/JsonSerializer/bin/Debug/net5.0/ref/JsonSerializer.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem1/Serialization_Classwork/JsonSerializer/bin/Debug/net5.0/JsonSerializer.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem1/Serialization_Classwork/JsonSerializer/obj/Debug/net5.0/JsonSerializer.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem1/Serialization_Classwork/JsonSerializer/obj/Debug/net5.0/JsonSerializer.GeneratedMSBuildEditorConfig.editorconfig
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem1/Serialization_Classwork/JsonSerializer/obj/Debug/net5.0/JsonSerializer.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem1/Serialization_Classwork/JsonSerializer/obj/Debug/net5.0/JsonSerializer.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem1/Serialization_Classwork/JsonSerializer/obj/Debug/net5.0/JsonSerializer.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem1/Serialization_Classwork/JsonSerializer/obj/Debug/net5.0/JsonSerializer.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem1/Serialization_Classwork/JsonSerializer/obj/Debug/net5.0/ref/JsonSerializer.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem1/Serialization_Classwork/JsonSerializer/obj/Debug/net5.0/JsonSerializer.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem1/Serialization_Classwork/JsonSerializer/obj/Debug/net5.0/JsonSerializer.genruntimeconfig.cache
