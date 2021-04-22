@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zefpv0uaOl9uNrZQa2i4kbJStbsSbkcdK1LMVm+AFG3HMDgSt7/QLEWe8fh+4jtiElOo2P2s/VOMQsdTNmP2MQ==",
+  "success": true,
+  "projectFilePath": "/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Contest_11/TaskB/TaskB.csproj",
+  "expectedPackageFiles": [
+    "/home/padjal/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.14/microsoft.netcore.app.host.linux-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

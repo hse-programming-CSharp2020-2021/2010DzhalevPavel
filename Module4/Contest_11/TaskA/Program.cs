@@ -4,6 +4,7 @@ using System.Runtime.Serialization.Json;
 
 public class Program
 {
+    //https://official.contest.yandex.ru/contest/26738/enter
     private static Ingredient[] ReadReceipt(string path)
     {
         using (var fs = new FileStream(path, FileMode.Open, FileAccess.Read))

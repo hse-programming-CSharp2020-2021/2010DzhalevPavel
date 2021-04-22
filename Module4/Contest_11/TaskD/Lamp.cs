@@ -1,10 +1,23 @@
 using System;
+using System.Xml.Serialization;
+
 public class Lamp : Furniture
 {
-    public double LifeTimeSeconds => throw new NotImplementedException();
+    [XmlElement("lifeTime")]
+    public double LifeTimeSeconds
+    {
+        get => _lifeTime;
+        set => _lifeTime = value;
+    }
+
+    private double _lifeTime;
 
     public Lamp(long id, TimeSpan lifeTime) : base(id)
     {
-        throw new NotImplementedException();
+        _lifeTime = lifeTime.TotalSeconds;
+    }
+
+    public Lamp()
+    {
     }
 }

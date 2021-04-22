@@ -6,9 +6,9 @@ public class Program
     {
         Rational a = Rational.Parse(Console.ReadLine());
         Rational b = Rational.Parse(Console.ReadLine());
-        Console.WriteLine(a + b);
+        /*Console.WriteLine(a + b);
         Console.WriteLine(a - b);
         Console.WriteLine(a * b);
-        Console.WriteLine(a / b);
+        Console.WriteLine(a / b);*/
     }
 }

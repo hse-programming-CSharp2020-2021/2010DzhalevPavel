@@ -18,4 +18,9 @@ public class Tree
     {
         return $"height:{height} age:{age}";
     }
+
+    public int CompareTo(Tree maxTree)
+    {
+        throw new NotImplementedException();
+    }
 }
