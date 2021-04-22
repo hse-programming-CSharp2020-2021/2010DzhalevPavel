@@ -1,4 +1,5 @@
 using System;
+using System.Text.Json.Serialization;
 
 public class Penalty
 {
@@ -6,8 +7,23 @@ public class Penalty
     
     private int cost;
 
+    [JsonPropertyName("car_number")]
+    public int CarNumber
+    {
+        get => carNumber;
+        set => carNumber = value;
+    }
+
+    [JsonPropertyName("cost")]
+    public int Cost
+    {
+        get => cost;
+        set => cost = value;
+    }
+
     public Penalty(int carNumber, int cost)
     {
-        throw new NotImplementedException();
+        this.carNumber = carNumber;
+        this.cost = cost;
     }
 }
