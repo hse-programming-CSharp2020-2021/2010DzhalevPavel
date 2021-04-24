@@ -6,6 +6,7 @@
 AssemblyInfo.cs
 /obj
 .zip
+/Contest11
 
 # User-specific stuff
 .idea/**/workspace.xml
