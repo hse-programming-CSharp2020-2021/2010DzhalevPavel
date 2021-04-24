@@ -13,13 +13,13 @@ public class Program
                 if (command[0] == "explicit")
                 {
                     MartianInt martianInt = new MartianInt(int.Parse(command[1]));
-                    //int newInt = (int) martianInt;
-                    //Console.WriteLine(newInt);
+                    int newInt = (int) martianInt;
+                    Console.WriteLine(newInt);
                 }
                 else
                 {
-                    //MartianInt newMartianInt = int.Parse(command[1]);
-                    //Console.WriteLine(newMartianInt.Value);
+                    MartianInt newMartianInt = int.Parse(command[1]);
+                    Console.WriteLine(newMartianInt.Value);
                 }
             }
             catch (ArgumentException e)

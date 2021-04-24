@@ -7,8 +7,31 @@ public class MartianInt
     
     public MartianInt(int value)
     {
-        throw new NotImplementedException();
+        Value = value;
     }
 
-    public int Value => throw new NotImplementedException();
+    public int Value
+    {
+        get => value;
+        set
+        {
+            if (value < 0)
+                throw new ArgumentException("Value is negative")
+                    ;
+            this.value = value;
+        }
+    }
+
+    public static explicit operator int(MartianInt a)
+    {
+        var result =  a.value + count;
+        count++;
+        return result;
+    }
+    public static implicit operator MartianInt(int a)
+    {
+        var result = new MartianInt(a-count);
+        count++;
+        return result;
+    }
 }
