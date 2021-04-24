@@ -16,8 +16,13 @@ public class MartianInt
         set
         {
             if (value < 0)
+            {
+                count++;
                 throw new ArgumentException("Value is negative")
                     ;
+            }
+
+            
             this.value = value;
         }
     }
