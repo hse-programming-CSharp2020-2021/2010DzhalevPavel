@@ -1,13 +1,14 @@
 ﻿using System;
+using System.Diagnostics.Contracts;
 
 namespace Task03_Matrix
 {
     class Matrix2
     {
-        private int[,] matrix = new int[2,2];
+        private double[,] matrix = new double[2,2];
 
         //Constructor with 4 params.
-        public Matrix2(int a11, int a12, int a21, int a22)
+        public Matrix2(double a11, double a12, double a21, double a22)
         {
             matrix[0, 0] = a11;
             matrix[0, 1] = a12;
@@ -16,7 +17,7 @@ namespace Task03_Matrix
         }
 
         //Constructor with 2 params.
-        public Matrix2(int a11, int a22)
+        public Matrix2(double a11, double a22)
         {
             matrix[0, 0] = a11;
             matrix[1, 1] = a22;
@@ -30,9 +31,10 @@ namespace Task03_Matrix
         }
 
         //Returns the determinant of the matrix;
-        public int Det()
+        public double Det()
         {
-            int det = matrix[0, 0] * matrix[1, 1] - matrix[0, 1] * matrix[1, 0];
+            double det = matrix[0, 0] * matrix[1, 1] - matrix[0, 1] * matrix[1,
+             0];
             return det;
         }
         
@@ -40,8 +42,7 @@ namespace Task03_Matrix
         public Matrix2 Inverse()
         {
             var transposed = Transpose();
-            var inversed = transposed * (1 / Det());
-            return inversed;
+            return transposed/Det();
         }
 
         //Returns the transposed matrix
@@ -77,13 +78,13 @@ namespace Task03_Matrix
             return result;
         }
         
-        public static Matrix2 operator *(Matrix2 a, int b)
+        public static Matrix2 operator /(Matrix2 a, double b)
         {
             Matrix2 result = new Matrix2(
-                a.matrix[0,0] *b,
-                a.matrix[0,1] *b,
-                a.matrix[1,0] *b,
-                a.matrix[1,0] *b
+                a.matrix[0,0] /b,
+                a.matrix[0,1] /b,
+                a.matrix[1,0] /b,
+                a.matrix[1,0] /b
             );
             return result;
         }
@@ -98,11 +99,29 @@ namespace Task03_Matrix
             );
             return result;
         }
+        
+        public static Matrix2 operator *(Matrix2 a, double b)
+        {
+            Matrix2 result = new Matrix2(
+                a.matrix[0,0] *b,
+                a.matrix[0,1] *b,
+                a.matrix[1,0] *b,
+                a.matrix[1,0] *b
+            );
+            return result;
+        }
+        
+        public static Matrix2 operator /(Matrix2 a, Matrix2 b)
+        {
+            Matrix2 result = a * b.Inverse();
+            return result;
+        }
+        
 
         public override string ToString()
         {
-            return $"{matrix[0, 0]} {matrix[0, 1]}" +
-                   $"{matrix[1, 0]} {matrix[1, 1]}";
+            return $"{matrix[0, 0]} {matrix[0, 1]}\n" +
+                   $"{matrix[1, 0]} {matrix[1, 1]}\n";
         }
     }
     
@@ -110,7 +129,11 @@ namespace Task03_Matrix
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var a = new Matrix2(1, 2, 3, 4);
+            Console.WriteLine(a);
+            Console.WriteLine($"Determinant: {a.Det()}");
+            Console.WriteLine(a.Transpose());
+            Console.WriteLine(a.Inverse());
         }
     }
 }

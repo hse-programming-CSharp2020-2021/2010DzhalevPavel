@@ -1,0 +1,16 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem2/Classwork_Operators/Task03_Matrix/bin/Debug/net5.0/Task03_Matrix
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem2/Classwork_Operators/Task03_Matrix/bin/Debug/net5.0/Task03_Matrix.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem2/Classwork_Operators/Task03_Matrix/bin/Debug/net5.0/Task03_Matrix.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem2/Classwork_Operators/Task03_Matrix/bin/Debug/net5.0/Task03_Matrix.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem2/Classwork_Operators/Task03_Matrix/bin/Debug/net5.0/Task03_Matrix.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem2/Classwork_Operators/Task03_Matrix/bin/Debug/net5.0/ref/Task03_Matrix.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem2/Classwork_Operators/Task03_Matrix/bin/Debug/net5.0/Task03_Matrix.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem2/Classwork_Operators/Task03_Matrix/obj/Debug/net5.0/Task03_Matrix.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem2/Classwork_Operators/Task03_Matrix/obj/Debug/net5.0/Task03_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem2/Classwork_Operators/Task03_Matrix/obj/Debug/net5.0/Task03_Matrix.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem2/Classwork_Operators/Task03_Matrix/obj/Debug/net5.0/Task03_Matrix.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem2/Classwork_Operators/Task03_Matrix/obj/Debug/net5.0/Task03_Matrix.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem2/Classwork_Operators/Task03_Matrix/obj/Debug/net5.0/Task03_Matrix.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem2/Classwork_Operators/Task03_Matrix/obj/Debug/net5.0/ref/Task03_Matrix.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem2/Classwork_Operators/Task03_Matrix/obj/Debug/net5.0/Task03_Matrix.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem2/Classwork_Operators/Task03_Matrix/obj/Debug/net5.0/Task03_Matrix.genruntimeconfig.cache
