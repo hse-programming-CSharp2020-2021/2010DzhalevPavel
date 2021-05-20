@@ -12,6 +12,7 @@ namespace Task01
 
     abstract class Animal : IVocal
     {
+        private static int id = 1;
         protected int Id { get; set; }
         protected string Name { get; set; }
         public bool IsTakenCare { get; set; }
@@ -22,7 +23,7 @@ namespace Task01
         public Animal(string name, bool isTakenCare)
         {
             var rand = new Random();
-            Id = rand.Next(1, 10);
+            Id = id++;
             Name = name;
             IsTakenCare = isTakenCare;
         }
