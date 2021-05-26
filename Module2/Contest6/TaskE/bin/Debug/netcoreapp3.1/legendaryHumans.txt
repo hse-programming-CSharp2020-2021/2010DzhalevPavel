@@ -1,6 +1,0 @@
-Wizard	Sir Giles Daubeney	250	22	Charmer
-Knight	John de Hausted	290	38
-Knight	William Atte Wode	280	65	sword, shield
-Wizard	hello	211	50	Archmage
-Knight	its me	299	74
-Knight	William Atte Wode	299	73	sword, shield, d, d, d

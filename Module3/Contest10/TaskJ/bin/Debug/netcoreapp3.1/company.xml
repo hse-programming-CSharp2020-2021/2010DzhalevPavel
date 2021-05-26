@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<company name="Рога и копыта">
-  <person id="1" name="Остап Бендер" position="Начальник отделения">
-    <person id="2" name="Паниковский" position="Курьер" />
-    <person id="3" name="Шура Балаганов" position="Уполномоченный по копытам" />
-    <person id="4" name="Фунт" position="Зицпредседатель" />
-  </person>
-</company>
