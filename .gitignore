@@ -6,7 +6,8 @@
 AssemblyInfo.cs
 /obj
 .zip
-Contest_11/
+.vs/
+.vscode/
 
 # User-specific stuff
 .idea/**/workspace.xml
