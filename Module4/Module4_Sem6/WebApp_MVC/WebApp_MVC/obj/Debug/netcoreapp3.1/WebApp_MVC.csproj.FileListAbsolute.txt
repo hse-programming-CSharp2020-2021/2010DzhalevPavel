@@ -1,0 +1,112 @@
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.deps.json
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.runtimeconfig.json
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.runtimeconfig.dev.json
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.dll
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.pdb
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.Views.dll
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.Views.pdb
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.csprojAssemblyReference.cache
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.AssemblyInfoInputs.cache
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.AssemblyInfo.cs
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.csproj.CoreCompileInputs.cache
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.MvcApplicationPartsAssemblyInfo.cache
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.RazorAssemblyInfo.cache
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.RazorAssemblyInfo.cs
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/staticwebassets/WebApp_MVC.StaticWebAssets.Manifest.cache
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/staticwebassets/WebApp_MVC.StaticWebAssets.xml
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/scopedcss/bundle/WebApp_MVC.styles.css
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.TagHelpers.input.cache
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.TagHelpers.output.cache
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.RazorCoreGenerate.cache
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Products/Index.cshtml.g.cs
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Products/Privacy.cshtml.g.cs
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Products/ViewItem.cshtml.g.cs
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.RazorTargetAssemblyInfo.cache
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.RazorTargetAssemblyInfo.cs
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.Views.pdb
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.dll
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.pdb
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.genruntimeconfig.cache
+/Users/mgordenko/Downloads/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.csproj.CopyComplete
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.deps.json
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.runtimeconfig.json
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.runtimeconfig.dev.json
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.dll
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.pdb
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.Views.dll
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.Views.pdb
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.csprojAssemblyReference.cache
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.AssemblyInfoInputs.cache
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.AssemblyInfo.cs
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.csproj.CoreCompileInputs.cache
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.MvcApplicationPartsAssemblyInfo.cache
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.RazorAssemblyInfo.cache
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.RazorAssemblyInfo.cs
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/staticwebassets/WebApp_MVC.StaticWebAssets.Manifest.cache
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/staticwebassets/WebApp_MVC.StaticWebAssets.xml
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/scopedcss/bundle/WebApp_MVC.styles.css
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.TagHelpers.input.cache
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.TagHelpers.output.cache
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.RazorCoreGenerate.cache
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Products/Index.cshtml.g.cs
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Products/Privacy.cshtml.g.cs
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Products/ViewItem.cshtml.g.cs
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.RazorTargetAssemblyInfo.cache
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.RazorTargetAssemblyInfo.cs
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.Views.pdb
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.dll
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.pdb
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.genruntimeconfig.cache
+/Users/mgordenko/Yandex.Disk.localized/SRC_4_06_MVC_WebAPI/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.csproj.CopyComplete
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/appsettings.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.Views.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/bin/Debug/netcoreapp3.1/WebApp_MVC.Views.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.MvcApplicationPartsAssemblyInfo.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.RazorAssemblyInfo.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.RazorAssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/staticwebassets/WebApp_MVC.StaticWebAssets.Manifest.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/staticwebassets/WebApp_MVC.StaticWebAssets.xml
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/scopedcss/bundle/WebApp_MVC.styles.css
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.TagHelpers.input.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.TagHelpers.output.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.RazorCoreGenerate.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Products/Index.cshtml.g.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Products/Privacy.cshtml.g.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Products/ViewItem.cshtml.g.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.RazorTargetAssemblyInfo.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.RazorTargetAssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.Views.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.genruntimeconfig.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/WebApp_MVC/WebApp_MVC/obj/Debug/netcoreapp3.1/WebApp_MVC.csproj.CopyComplete

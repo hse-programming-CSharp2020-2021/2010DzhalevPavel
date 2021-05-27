@@ -1,0 +1,29 @@
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/bin/Debug/net5.0/appsettings.Development.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/bin/Debug/net5.0/appsettings.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/bin/Debug/net5.0/First API
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/bin/Debug/net5.0/First API.deps.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/bin/Debug/net5.0/First API.runtimeconfig.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/bin/Debug/net5.0/First API.runtimeconfig.dev.json
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/bin/Debug/net5.0/First API.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/bin/Debug/net5.0/ref/First API.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/bin/Debug/net5.0/First API.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/obj/Debug/net5.0/First API.csprojAssemblyReference.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/obj/Debug/net5.0/First API.GeneratedMSBuildEditorConfig.editorconfig
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/obj/Debug/net5.0/First API.AssemblyInfoInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/obj/Debug/net5.0/First API.AssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/obj/Debug/net5.0/First API.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/obj/Debug/net5.0/First API.MvcApplicationPartsAssemblyInfo.cs
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/obj/Debug/net5.0/First API.MvcApplicationPartsAssemblyInfo.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/obj/Debug/net5.0/staticwebassets/First API.StaticWebAssets.Manifest.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/obj/Debug/net5.0/staticwebassets/First API.StaticWebAssets.xml
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/obj/Debug/net5.0/scopedcss/bundle/First API.styles.css
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/obj/Debug/net5.0/First API.RazorTargetAssemblyInfo.cache
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/obj/Debug/net5.0/First API.csproj.CopyComplete
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/obj/Debug/net5.0/First API.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/obj/Debug/net5.0/ref/First API.dll
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/obj/Debug/net5.0/First API.pdb
+/home/padjal/Documents/HSE/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/CW - Web APIs/First API/obj/Debug/net5.0/First API.genruntimeconfig.cache
