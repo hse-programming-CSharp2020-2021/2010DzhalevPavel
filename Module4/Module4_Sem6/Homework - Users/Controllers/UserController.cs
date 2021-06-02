@@ -7,7 +7,7 @@ namespace Homework___Users.Controllers
 {
     public class UserController : Controller
     {
-        private static g List<UserInfo> _users = new ();
+        private static List<UserInfo> _users = new ();
 
         [HttpPost("create-user")]
         public IActionResult CreateUser([FromBody] CreateUserRequest user)
