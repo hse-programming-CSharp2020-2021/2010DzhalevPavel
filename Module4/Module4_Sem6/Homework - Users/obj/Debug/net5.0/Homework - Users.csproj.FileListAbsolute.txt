@@ -1,0 +1,29 @@
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/bin/Debug/net5.0/appsettings.Development.json
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/bin/Debug/net5.0/appsettings.json
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/bin/Debug/net5.0/Homework - Users
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/bin/Debug/net5.0/Homework - Users.deps.json
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/bin/Debug/net5.0/Homework - Users.runtimeconfig.json
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/bin/Debug/net5.0/Homework - Users.runtimeconfig.dev.json
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/bin/Debug/net5.0/Homework - Users.dll
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/bin/Debug/net5.0/ref/Homework - Users.dll
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/bin/Debug/net5.0/Homework - Users.pdb
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/obj/Debug/net5.0/Homework - Users.csprojAssemblyReference.cache
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/obj/Debug/net5.0/Homework - Users.GeneratedMSBuildEditorConfig.editorconfig
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/obj/Debug/net5.0/Homework - Users.AssemblyInfoInputs.cache
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/obj/Debug/net5.0/Homework - Users.AssemblyInfo.cs
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/obj/Debug/net5.0/Homework - Users.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/obj/Debug/net5.0/Homework - Users.MvcApplicationPartsAssemblyInfo.cs
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/obj/Debug/net5.0/Homework - Users.MvcApplicationPartsAssemblyInfo.cache
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/obj/Debug/net5.0/staticwebassets/Homework - Users.StaticWebAssets.Manifest.cache
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/obj/Debug/net5.0/staticwebassets/Homework - Users.StaticWebAssets.xml
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/obj/Debug/net5.0/scopedcss/bundle/Homework - Users.styles.css
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/obj/Debug/net5.0/Homework - Users.RazorTargetAssemblyInfo.cache
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/obj/Debug/net5.0/Homework - Users.csproj.CopyComplete
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/obj/Debug/net5.0/Homework - Users.dll
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/obj/Debug/net5.0/ref/Homework - Users.dll
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/obj/Debug/net5.0/Homework - Users.pdb
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem6/Homework - Users/obj/Debug/net5.0/Homework - Users.genruntimeconfig.cache
