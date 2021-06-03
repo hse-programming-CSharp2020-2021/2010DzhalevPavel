@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SyncDictionary/1.0.0": {
+        "runtime": {
+          "SyncDictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SyncDictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

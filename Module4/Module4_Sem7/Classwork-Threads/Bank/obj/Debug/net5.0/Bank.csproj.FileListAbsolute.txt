@@ -1,0 +1,16 @@
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/Bank/bin/Debug/net5.0/Bank
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/Bank/bin/Debug/net5.0/Bank.deps.json
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/Bank/bin/Debug/net5.0/Bank.runtimeconfig.json
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/Bank/bin/Debug/net5.0/Bank.runtimeconfig.dev.json
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/Bank/bin/Debug/net5.0/Bank.dll
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/Bank/bin/Debug/net5.0/ref/Bank.dll
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/Bank/bin/Debug/net5.0/Bank.pdb
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/Bank/obj/Debug/net5.0/Bank.csprojAssemblyReference.cache
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/Bank/obj/Debug/net5.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/Bank/obj/Debug/net5.0/Bank.AssemblyInfoInputs.cache
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/Bank/obj/Debug/net5.0/Bank.AssemblyInfo.cs
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/Bank/obj/Debug/net5.0/Bank.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/Bank/obj/Debug/net5.0/Bank.dll
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/Bank/obj/Debug/net5.0/ref/Bank.dll
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/Bank/obj/Debug/net5.0/Bank.pdb
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/Bank/obj/Debug/net5.0/Bank.genruntimeconfig.cache

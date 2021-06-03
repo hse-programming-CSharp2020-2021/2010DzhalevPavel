@@ -1,0 +1,16 @@
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/SyncDictionary/obj/Debug/net5.0/SyncDictionary.csprojAssemblyReference.cache
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/SyncDictionary/obj/Debug/net5.0/SyncDictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/SyncDictionary/obj/Debug/net5.0/SyncDictionary.AssemblyInfoInputs.cache
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/SyncDictionary/obj/Debug/net5.0/SyncDictionary.AssemblyInfo.cs
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/SyncDictionary/obj/Debug/net5.0/SyncDictionary.csproj.CoreCompileInputs.cache
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/SyncDictionary/bin/Debug/net5.0/SyncDictionary
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/SyncDictionary/bin/Debug/net5.0/SyncDictionary.deps.json
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/SyncDictionary/bin/Debug/net5.0/SyncDictionary.runtimeconfig.json
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/SyncDictionary/bin/Debug/net5.0/SyncDictionary.runtimeconfig.dev.json
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/SyncDictionary/bin/Debug/net5.0/SyncDictionary.dll
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/SyncDictionary/bin/Debug/net5.0/ref/SyncDictionary.dll
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/SyncDictionary/bin/Debug/net5.0/SyncDictionary.pdb
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/SyncDictionary/obj/Debug/net5.0/SyncDictionary.dll
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/SyncDictionary/obj/Debug/net5.0/ref/SyncDictionary.dll
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/SyncDictionary/obj/Debug/net5.0/SyncDictionary.pdb
+/home/padjal/Documents/hse/1st Year/Programming/2010DzhalevPavel/Module4/Module4_Sem7/Classwork-Threads/SyncDictionary/obj/Debug/net5.0/SyncDictionary.genruntimeconfig.cache
